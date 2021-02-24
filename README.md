@@ -2,3 +2,11 @@
 
 ## Introduction
 Explorer is a blog theme for vuepress.
+
+## Progress Rate
+<!-- - [ ] Home
+- [ ] Posts
+- [ ] Tag
+- [ ] About
+- [ ] Detail -->
+building...
